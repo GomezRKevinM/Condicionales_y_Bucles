@@ -24,4 +24,6 @@
   <li>do-while</li>
 </ol>
 
+>[!IMPORTANT]
+>Link de la clase: <a target="_blank" href="https://kick.com/kenuelg/videos/5954ec01-74c2-4a2b-8761-38ab88f7fff8?t=3097">Click Aquí</a>
 
