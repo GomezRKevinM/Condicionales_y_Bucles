@@ -38,6 +38,27 @@ else{
 // Ejecuta Sí no se cumple ninguna condición
 }
 ```
+
+<h2>Condicionales Avanzadas</h2>
+
+## switch
+ ```java
+switch(variable){
+  case x:
+     // condición de cuando la variable vale x
+    break; //Cierre de ese caso.
+  default:
+    // cuando no se cumple ningun caso.
+    break;
+}
+```
+
+## ?: Operador ternario
+
+ ```java
+<tipo de variable a recibir> nombre = condicion ? retorno si la condición se cumple : retorno si no se cumple;
+//el operador ternario siempre debe recibir un valor, ya sea entero, booleano o de String.
+```
   
 </ol>
 
