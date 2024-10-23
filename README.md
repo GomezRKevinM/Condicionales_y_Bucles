@@ -17,11 +17,8 @@
 </ol>
 
 <h2>Bucles</h2>
-<li>
-  <h3>¿Qué es?</h3>
-  <p>Un bucle es un bloque de código que se ejecuta reiteradas veces, mientras su condición sea verdadera.</p>
-</li>
 <ol>
+<li><h3>¿Qué es?</h3><p>Un bucle es un bloque de código que se ejecuta reiteradas veces, mientras su condición sea verdadera.</p></li>
   <li>for</li>
   <li>while</li>
   <li>do-while</li>
