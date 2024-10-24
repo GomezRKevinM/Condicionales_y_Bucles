@@ -63,12 +63,29 @@ switch(variable){
 </ol>
 
 <h2>Bucles</h2>
-<ol>
-<li><h3>¿Qué es?</h3><p>Un bucle es un bloque de código que se ejecuta reiteradas veces, mientras su condición sea verdadera.</p></li>
-  <li>for</li>
-  <li>while</li>
-  <li>do-while</li>
-</ol>
+
+<h3>¿Qué es?</h3><p>Un bucle es un bloque de código que se ejecuta reiteradas veces, mientras su condición sea verdadera.</p>
+
+## for
+ ```java
+for(int i; condicion; i++){
+  //Codígo a ejecutar
+}
+```
+## while
+ ```java
+while(condicion){
+  // Código a ejecutar
+}
+```
+## do-while
+>[!IMPORTANT]
+>El ciclo do while, funciona de manera inversa a los otros bucles, primero se ejecuta el código y luego evalua la condición para volver a ejecutar o no.
+ ```java
+do{
+  // Código a ejecutar
+}while(condicion)
+```
 
 >[!IMPORTANT]
 >Link de la clase: <a href="https://kick.com/kenuelg/videos/5954ec01-74c2-4a2b-8761-38ab88f7fff8?t=3097" target="_blank">Click Aquí</a>
